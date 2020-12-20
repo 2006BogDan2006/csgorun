@@ -1,0 +1,19 @@
+.container{
+    border: 2px solid black;
+    height: 1200px;
+}
+.col{
+    border: 1px solid black;
+    height: 26px;
+}
+.row{
+    border: 1px solid black;
+}
+.kvadrat {
+    width: 150px;
+    height: 220px;
+    border: 2px solid black;
+    position: absolute;
+    top: 5%;
+    left: 70%;
+}
